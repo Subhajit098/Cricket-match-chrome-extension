@@ -1,0 +1,11 @@
+{
+    "name":"Live Cricket match news",
+    "version":"1.0.0",
+    "description":"This chrome extension shows live data about Cricket all over the world",
+    "manifest_version":3,
+    "author":"Subhajit Dey",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Live Cricket match news"
+    }
+}
